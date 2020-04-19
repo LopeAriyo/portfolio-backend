@@ -13,7 +13,7 @@
       "type": "string"
     },
     "description": {
-      "type": "string"
+      "type": "text"
     },
     "phoneImage": {
       "model": "file",
@@ -54,11 +54,11 @@
     "demoLink": {
       "type": "string"
     },
-    "publishDate": {
-      "type": "date"
-    },
     "websiteLink": {
       "type": "string"
+    },
+    "publishDate": {
+      "type": "date"
     }
   }
 }
